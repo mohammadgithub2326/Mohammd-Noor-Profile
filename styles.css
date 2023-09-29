@@ -1,0 +1,40 @@
+/* Reset default browser styles */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+/* Set background color and font styles for the entire page */
+body {
+    background-color: #f0f0f0; /* Use your preferred background color */
+    font-family: Arial, sans-serif; /* Choose a suitable font */
+    color: #333; /* Text color */
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Header styling */
+header {
+    background-color: #333; /* Header background color */
+    color: #fff; /* Header text color */
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 36px; /* Header name font size */
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 18px; /* Header profession font size */
+}
+
+/* Section styling */
+section {
+    background-color: #fff; /* Section background color */
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 
